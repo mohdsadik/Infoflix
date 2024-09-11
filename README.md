@@ -1,16 +1,12 @@
-# infoflix
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Infoflix App
+ ## Description: 
+ ### A movie info app that uses the TMDB API to display realtime information about movies with a sleek UI.
+ ## Technologies: 
+ ### API Integration, HTTP, Responsive Design.
+ ## Features:
+ ### Realtime movie data from TMDB API.
+ ### Interactive and responsive UI.
+ ## Installation:
+ ### Clone the repository.
+ ### Set up the TMDB API.
+ ### Run `flutter pub get` and `flutter run`.
